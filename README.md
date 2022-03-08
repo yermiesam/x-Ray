@@ -1,4 +1,4 @@
-# The *x-Ray* Project
+# The *xRay* Project
 Look inside a virtual computer's architecture and operations to gain knowledge and insight.
 
 ### Concept
